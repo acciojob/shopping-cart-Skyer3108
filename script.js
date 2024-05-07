@@ -1,7 +1,7 @@
 //your code here
-const nam=document.getElementById('name')
+const nam=document.getElementById('item-price-input')
 
-const pric=document.getElementById('price')
+const pric=document.getElementById('item-price-input')
 
 const addbtn=document.getElementById('add')
 
